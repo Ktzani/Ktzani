@@ -1,5 +1,7 @@
 ### OLAAÁ 👋!! Bom dia 🌝, boa tarde 🌞, boa noite 🌚!! Eu sou o Gabriel Catizani, mas podem me chamar por Catiza. 
 
+##
+
 - 🔭 Ainda não trabalho, porém estou em busca de um estágio
 
 - 🏫 Estudo na Faculdade Federal de Ouro Preto (UFOP) e me encontro no 3º periodo de Ciencia da Computação 
