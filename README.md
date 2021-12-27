@@ -6,7 +6,7 @@
 
 - 🏫 Estudo na Faculdade Federal de Ouro Preto (UFOP) e me encontro no 3º periodo de Ciencia da Computação 
 
-- 🌱 Estudando JavaScript, C e C++ 
+- 🌱 Estudando JavaScript, Java, C, C++, CSS, HTML 
 
 - 👯 Sou uma pessoa que trabalho muito bem em equipe e sempre que possível ajudo a todos ao meu redor!! AMOO AJUDAR! 
 
