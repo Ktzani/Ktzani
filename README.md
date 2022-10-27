@@ -2,26 +2,25 @@
 
 ##
 
-- 🔭 Ainda não trabalho, porém estou em busca de um estágio
+🔭 Estou trabalhando para uma empresa de São Paulo como um desenvolvedor Back-End
 
-- 🏫 Estudo na Faculdade Federal de Ouro Preto (UFOP) e me encontro no 3º periodo de Ciencia da Computação 
+🏫 Estudo na Faculdade Federal de Ouro Preto (UFOP) e me encontro no 5º período de Ciência da Computação
 
-- 🌱 Estudando JavaScript, Java, C, C++, CSS, HTML 
+🌱 Estudando C, C++, JavaScript, HTML, CSS e PHP
 
-- 👯 Sou uma pessoa que trabalho muito bem em equipe e sempre que possível ajudo a todos ao meu redor!! AMOO AJUDAR! 
+👯 Sou uma pessoa que trabalho muito bem em equipe e sempre que possível ajudo a todos ao meu redor!! AMOO AJUDAR!
 
-- 📫 Para entrar em contato: 
-      
-      EMAIL PESSOAL: gabrielcatizani2001@hotmail.com
-      EMAIL ACADÊMICO: gabriel.catizani@aluno.ufop.edu.br
-      
-- 😄 Pronouns: Ele/Dele
+📫 Para entrar em contato:
 
-- ⚡ Fun fact: AMOOOO com todas as forças botar o papo em dia, jogar qualquer esporte (principalmente basquete - 🏀🏀 == 😍😍😍) e estudar o que amo: PROGRAMAÇÃO💻 
+EMAIL PESSOAL: gabrielcatizani2001@hotmail.com
+EMAIL ACADÊMICO: gabriel.catizani@aluno.ufop.edu.br
+😄 Pronouns: Ele/Dele
 
-Estou no inicio da minha jornada de programador 🧗‍♂, porém amo aprender mais coisas novas cada dia 📖! 
+⚡ Fun fact: AMOOOO com todas as forças botar o papo em dia, jogar qualquer esporte (principalmente basquete / 🏀🏀 == 😍😍😍) e estudar o que amo: PROGRAMAÇÃO💻
 
-CURIOSIDADE: AMOOOO cachorros de todos os tipos, mas principalemnte da raça Corgi! Entao, tudo meu tem ft do meu cachorro que chama Fox 🐕🐾🦊 rsrsrs! 
+Estou no inicio da minha jornada de programador 🧗‍♂, porém amo aprender mais coisas novas cada dia 📖!
+
+CURIOSIDADE: AMOOOO cachorros de todos os tipos, mas principalemnte da raça Corgi! Entao, tudo meu tem ft do meu cachorro que chama Fox 🐕🐾🦊 rsrsrs!
 
 ##
 
