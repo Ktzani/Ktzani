@@ -4,7 +4,7 @@
 
 🔭 Estou trabalhando para uma empresa de São Paulo como um desenvolvedor Back-End
 
-🏫 Estudo na Faculdade Federal de Ouro Preto (UFOP) e me encontro no 5º período de Ciência da Computação
+🏫 Estudo na Faculdade Federal de Ouro Preto (UFOP) e me encontro no 6º período de Ciência da Computação
 
 🌱 Estudando C, C++, JavaScript, HTML, CSS e PHP
 
