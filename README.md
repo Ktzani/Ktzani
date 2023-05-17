@@ -20,7 +20,6 @@ EMAIL ACADÊMICO: gabriel.catizani@aluno.ufop.edu.br
 
 Estou no inicio da minha jornada de programador 🧗‍♂, porém amo aprender mais coisas novas cada dia 📖!
 
-CURIOSIDADE: AMOOOO cachorros de todos os tipos, mas principalemnte da raça Corgi! Entao, tudo meu tem ft do meu cachorro que chama Fox 🐕🐾🦊 rsrsrs!
 
 ##
 
