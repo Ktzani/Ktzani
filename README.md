@@ -6,7 +6,7 @@
 
 🏫 Estudo na Faculdade Federal de Ouro Preto (UFOP) e me encontro no 7º período de Ciência da Computação
 
-🌱 Estudando JavaScript, TypeScript, React, PHP, C, C++,C# e Banco de dados relacionais e não relacionais
+🌱 Estudando JavaScript, TypeScript, Banco de dados relacionais e não relacionais, React, PHP, C, C++,C#
 
 👯 Sou uma pessoa que trabalho muito bem em equipe e sempre que possível ajudo a todos ao meu redor!! AMOO AJUDAR!
 
