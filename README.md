@@ -2,11 +2,11 @@
 
 ##
 
-🔭 Estou trabalhando para uma empresa de São Paulo como um desenvolvedor Back-End
+🔭 Meu grande objetivo é me tornar um otimo desenvolvedor Backend, criando aplicacões e projetos de larga escala
 
-🏫 Estudo na Faculdade Federal de Ouro Preto (UFOP) e me encontro no 6º período de Ciência da Computação
+🏫 Estudo na Faculdade Federal de Ouro Preto (UFOP) e me encontro no 7º período de Ciência da Computação
 
-🌱 Estudando C, C++, JavaScript, TypeScript, React, HTML, CSS e PHP
+🌱 Estudando JavaScript, TypeScript, React, PHP, C, C++,C# e Banco de dados relacionais e não relacionais
 
 👯 Sou uma pessoa que trabalho muito bem em equipe e sempre que possível ajudo a todos ao meu redor!! AMOO AJUDAR!
 
