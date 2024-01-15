@@ -11,8 +11,8 @@
 👯 Sou uma pessoa que trabalho muito bem em equipe e sempre que possível ajudo a todos ao meu redor!! AMOO AJUDAR!
 
 📫 Para entrar em contato:
-
 EMAIL PESSOAL: gabrielcatizani2001@hotmail.com
+
 EMAIL ACADÊMICO: gabriel.catizani@aluno.ufop.edu.br
 
 😄 Pronouns: Ele/Dele
