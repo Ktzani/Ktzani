@@ -4,16 +4,16 @@
 
 🔭 Meu grande objetivo é me tornar um otimo desenvolvedor Backend, criando aplicacões e projetos de larga escala
 
-🏫 Estudo na Faculdade Federal de Ouro Preto (UFOP) e me encontro no 7º período de Ciência da Computação
+🏫 Estudo na Faculdade Federal de Ouro Preto (UFOP) e me encontro no 8º período de Ciência da Computação
 
-🌱 Estudando JavaScript, TypeScript, Banco de dados relacionais e não relacionais, React, PHP, C, C++,C#
+🌱 Estudando JavaScript, TypeScript, Banco de dados relacionais e não relacionais, Nextjs, Nestjs, PHP, Laravel, C, C++, C#
 
 👯 Sou uma pessoa que trabalho muito bem em equipe e sempre que possível ajudo a todos ao meu redor!! AMOO AJUDAR!
 
 📫 Para entrar em contato:
-
 EMAIL PESSOAL: gabrielcatizani2001@hotmail.com
 EMAIL ACADÊMICO: gabriel.catizani@aluno.ufop.edu.br
+
 😄 Pronouns: Ele/Dele
 
 ⚡ Fun fact: AMOOOO com todas as forças botar o papo em dia, jogar qualquer esporte (principalmente basquete / 🏀🏀 == 😍😍😍) e estudar o que amo: PROGRAMAÇÃO💻
