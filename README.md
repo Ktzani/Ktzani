@@ -1,27 +1,38 @@
-### OLAAÁ 👋!! Bom dia 🌝, boa tarde 🌞, boa noite 🌚!! Eu sou o Gabriel Catizani, mas podem me chamar por Catiza. 
+### OLAAÁ 👋!! Bom dia, boa tarde, boa noite!! Eu sou o Gabriel Catizani, mas podem me chamar por Catiza. 
 
 ##
 
-🔭 Meu grande objetivo é me tornar um otimo desenvolvedor Backend, criando aplicacões e projetos de larga escala
+🔭 Interessado em Machine Learning e Desenvolvimento Backend.
 
-🏫 Estudo na Faculdade Federal de Ouro Preto (UFOP) e me encontro no 8º período de Ciência da Computação
+🏫 Formado na Faculdade Federal de Ouro Preto (UFOP) em Ciência da Computação
 
-🌱 Estudando JavaScript, TypeScript, Banco de dados relacionais e não relacionais, Nextjs, Nestjs, PHP, Laravel, C, C++, C#
+💻 Cientista de Dados e Desenvolvedor Backend com +4 anos de experiência. Tive a oportunidade de trabalhar em diversas aplicações de grande escala que agregaram um valor significativo e ofereceram serviços de alta qualidade.
 
-👯 Sou uma pessoa que trabalho muito bem em equipe e sempre que possível ajudo a todos ao meu redor!! AMOO AJUDAR!
+Como Cientista de Dados, foco em análise de dados e Machine Learning usando Python, por meio do uso de Pandas, Scikit-learn, TensorFlow e PySpark para manipulação de grandes volumes de dados. Utilizo de serviços Apache (Airflow) para criar pipelines ETL automatizados, serviços da AWS, incluindo MLflow, para gerenciar e comparar modelos preditivos.
+
+Como desenvolvedor backend, foco em criar APIs robustas utilizando TypeScript e PHP, particularmente com frameworks como NestJS e Laravel. Tenho expertise na construção de serviços RESTful escaláveis e eficientes, que se integram perfeitamente com aplicações front-end e outros serviços. 
+
+Skills & Tecnologias:
+- Ciência de Dados
+> Análise de Dados: Pandas, NumPy
+> Machine Learning: Scikit-learn, TensorFlow, PySpark
+> Engenharia de Dados: Apache Airflow, Processos ETL
+> Serviços em Nuvem: AWS (S3, MLflow, EC2)
+
+- Backend
+> APIs REST
+> WebCrawler e WebScrapping
+> Frameworks: Laravel (PHP), NestJS (TypeScript), Serverless
+> Banco de Dados: MySQL, PostgreSQL, MongoDB
+> Serviços em Nuvem: AWS (S3, EC2, AWS Lambda)
 
 📫 Para entrar em contato:
+E-mail pessoal: gabrielcatizani2001@hotmail.com
+E-mail acadêmico: gabriel.catizani@aluno.ufop.edu.br
 
-EMAIL PESSOAL: gabrielcatizani2001@hotmail.com
+⚡ Fun fact: Amo com todas as forças botar o papo em dia, jogar qualquer esporte (principalmente basquete / 🏀🏀 == 😍😍) e estudar o que amo: Programação!
 
-EMAIL ACADÊMICO: gabriel.catizani@aluno.ufop.edu.br
-
-😄 Pronouns: Ele/Dele
-
-⚡ Fun fact: AMOOOO com todas as forças botar o papo em dia, jogar qualquer esporte (principalmente basquete / 🏀🏀 == 😍😍😍) e estudar o que amo: PROGRAMAÇÃO💻
-
-Estou no inicio da minha jornada de programador 🧗‍♂, porém amo aprender mais coisas novas cada dia 📖!
-
+Estou na minha jornada de programador, porém amo aprender mais coisas novas cada dia!
 
 ##
 
