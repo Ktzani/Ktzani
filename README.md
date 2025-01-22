@@ -14,17 +14,17 @@ Como desenvolvedor backend, foco em criar APIs robustas utilizando TypeScript e 
 
 Skills & Tecnologias:
 - Ciência de Dados
-> Análise de Dados: Pandas, NumPy
-> Machine Learning: Scikit-learn, TensorFlow, PySpark
-> Engenharia de Dados: Apache Airflow, Processos ETL
-> Serviços em Nuvem: AWS (S3, MLflow, EC2)
+Análise de Dados: Pandas, NumPy
+Machine Learning: Scikit-learn, TensorFlow, PySpark
+Engenharia de Dados: Apache Airflow, Processos ETL
+Serviços em Nuvem: AWS (S3, MLflow, EC2)
 
 - Backend
-> APIs REST
-> WebCrawler e WebScrapping
-> Frameworks: Laravel (PHP), NestJS (TypeScript), Serverless
-> Banco de Dados: MySQL, PostgreSQL, MongoDB
-> Serviços em Nuvem: AWS (S3, EC2, AWS Lambda)
+APIs REST
+WebCrawler e WebScrapping
+Frameworks: Laravel (PHP), NestJS (TypeScript), Serverless
+Banco de Dados: MySQL, PostgreSQL, MongoDB
+Serviços em Nuvem: AWS (S3, EC2, AWS Lambda)
 
 📫 Para entrar em contato:
 E-mail pessoal: gabrielcatizani2001@hotmail.com
